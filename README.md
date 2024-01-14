@@ -7,3 +7,6 @@ Subsequently, the exploration extends to random forest classifiers, involving th
 The comparison between random forests and single trees is analyzed. Additionally, the dependability of estimates is assessed by calculating the 10-fold cross-validation accuracy for various decision tree classifiers with different max depth settings across multiple random states. 
 
 The findings are presented through a bar chart illustrating the frequency of the best max depth settings. This project aims to provide a comprehensive understanding of classification techniques and the robustness of parameter choices in machine learning models.
+
+
+*Key Words*: Classification, Decision Trees, Random Forests, Cancer, Cross-validation, Machine Learning
